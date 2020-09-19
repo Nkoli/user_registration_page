@@ -7,6 +7,7 @@ class Form extends Component {
       firstName: "",
       lastName: "",
       password: "",
+      gender: "",
     };
     this.handleSubmit = this.handleSubmit.bind(this);
   }
